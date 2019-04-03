@@ -57,7 +57,7 @@
         <!--Navigation Controller-->
         <scene sceneID="0Cu-z3-0tm">
             <objects>
-                <navigationController storyboardIdentifier="NavController" automaticallyAdjustsScrollViewInsets="NO" id="xt8-Qa-k4o" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="NavController" automaticallyAdjustsScrollViewInsets="NO" useStoryboardIdentifierAsRestorationIdentifier="YES" id="xt8-Qa-k4o" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" systemItem="mostRecent" id="063-Uf-kh8">
                         <offsetWrapper key="titlePositionAdjustment" horizontal="0.0" vertical="0.0"/>
                     </tabBarItem>
