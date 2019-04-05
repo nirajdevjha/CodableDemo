@@ -19,7 +19,7 @@ class DetailViewController: UIViewController {
         webView = WKWebView()
         view = webView
     }
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         
